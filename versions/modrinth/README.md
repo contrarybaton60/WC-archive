@@ -5,7 +5,7 @@ William's Console: Revisited is a modpack that attempts to expand onto an idea; 
 
 ![Banner](https://cdn.modrinth.com/data/w4UMynmM/images/bf221ddbec5ab3eaa6bb5786afe466b6172a40f6.png)
 
-![Information](https://cdn.modrinth.com/data/cached_images/595f99160e4e4da286353f62ebf63989f2837f23.webp)
+
 William's Console: Revisited (or "WC:R" for short) is a remastered release of the William's Console modpack, with more modded terrain generation, features and a generally more polished experience.
 
 ![Features](https://cdn.modrinth.com/data/cached_images/97029679acef552aaa93810310bee9e0f287dc5d.webp)
@@ -34,11 +34,6 @@ William's Console: Revisited comes with a lot of QoL and cool features which can
 - Optifine resource pack features
 - Optifine capes
 - Shader support
-
-## Not your cup of tea? Thats fine! Consider checking out;
-- [Console-idated](https://modrinth.com/modpack/console-idated) by S_N00B (Has LEM compatibility)
-- [Re-Console](https://modrinth.com/modpack/legacy-minecraft) by bowen, devin, Emmie and Violaflower Modding
-- the original [William's Console](https://modrinth.com/modpack/williams-console) by William
 
 <details>
 <summary>Credits</summary>
