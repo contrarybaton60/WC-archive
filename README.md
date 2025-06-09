@@ -25,5 +25,4 @@ Any versions beyond 3.0 is not managed by me, any issues should be reported to t
 
 </details>
 
-------------------------
 Thank you for everything
