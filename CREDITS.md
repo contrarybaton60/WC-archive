@@ -7,11 +7,10 @@
 - bowen (omoso)
 
 ## Other contributors
-- AzaleaCatgirl99, for creating the packwiz-based Github repository
+- AzaleaCatgirl99, for creating the packwiz-based Github repository on ViolaFlower
 - BuddarScotchy, for being there when the original modpack was being created
 - Cjnator38, for creating the panorama for Revisited
 - Quartzmaven, for creating the panorama used for "Quartz's Console: Rewritten" which was eventually used for the original modpack
-- totaltommygun, for being the only other user who made an issue of the original modpack
 
 ## Licenses and ownership
 The GNU General Public License version 3 is used for all versions of Revisited. 
