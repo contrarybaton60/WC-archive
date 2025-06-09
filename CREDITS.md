@@ -23,4 +23,4 @@ The Attribution-NonCommercial-ShareAlike 4.0 International license is used for "
 Any versions beyond 2.0 is not managed by me, any issues should be reported to the current owners of the modpack.
 
 ------------------------
-Thank you for everything
+Thank you for everything.
