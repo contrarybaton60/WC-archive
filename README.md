@@ -8,21 +8,14 @@ Long story short... I messed up.
 ## what about new versions?
 I haven't developed any new versions beyond 3.0.
 
-## Who develops the modpack now?
-[Nostalgica-Reverie](https://github.com/Nostalgica-Reverie).
-
-<details>
-<summary>Licenses and ownership</summary>
+## Licenses and ownership
 The GNU General Public License version 3 is used for all versions of Revisited. 
-
 
 The Apache License version 2 is used for all pre-Revisited versions.
 
 The Attribution-NonCommercial-ShareAlike 4.0 International license is used for "DDM for WC"
 
-Any versions beyond 3.0 is not managed by me, any issues should be reported to the current owners of the modpack.
+Any versions beyond 3.0 is not managed by me, any issues should be reported to [Nostalgica-Reverie](https://github.com/Nostalgica-Reverie).
 
 
-</details>
-
-Thank you for everything
+## Thank you for everything.
