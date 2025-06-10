@@ -3,7 +3,7 @@
 ## Original owner and developer
 - William
 
-## Main maintainer
+## (former) Main maintainer
 - bowen (omoso)
 
 ## Other contributors
