@@ -15,7 +15,4 @@ The Apache License version 2 is used for all pre-Revisited versions.
 
 The Attribution-NonCommercial-ShareAlike 4.0 International license is used for "DDM for WC"
 
-Any versions beyond 3.0 is not managed by me, any issues should be reported to [Nostalgica-Reverie](https://github.com/Nostalgica-Reverie).
-
-
 ## Thank you for everything.
