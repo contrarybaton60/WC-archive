@@ -1,4 +1,4 @@
-# This is an archive repository for William's Console and William's Console Revisited
+# This is an archive repository for William's Console and William's Console: Revisited
 
 <img src="other stuff/original/icons/wcclassic.JPEG" width="128"> <img src="other stuff/revisited-1.x/icons/wcricon.png" width="128"> <img src="other stuff/revisited-2.x/icons/wcricon.png" width="128">
 
